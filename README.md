@@ -1,6 +1,7 @@
-- 👋 Hi, I'm Jakub from Poland and I'm 19 years old
-- 👀 I’m interested in History,Programming,Philosophy
-- 🌱 I’m currently learning Python,Git,C#,C++
+- :raised_hands: Hi, I'm Jacob  and I'm 20 years old
+- :books: I’m interested in History,Programming,Philosophy
+- :blue_book: I’m currently learning Python,Git,C#,C++
+- 
 
 
 

@@ -1,6 +1,8 @@
-- :raised_hands: Hi, I'm Jacob  and I'm 20 years old
+- :raised_hands: Hi, I'm Jacob 
 - :books: I’m interested in History,Programming,Philosophy
-- :blue_book: I’m currently learning Git, C#, .Net Core
+- :wrench: I enjoy tinkering with code and finding solutions to problems 
+  - :speech_balloon: Feel free to reach out to me to collaborate or discuss ideas
+  - :chart_with_upwards_trend: My goal is to constantly improve my skills and contribute to the open source community.
 
 
 

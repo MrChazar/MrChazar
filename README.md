@@ -1,9 +1,10 @@
-- :raised_hands: Hi, I'm Jacob 
-- :books: I’m interested in software development and machine learning
-- My favourite languages are Python and C#
+# Hi, I'm Jacob :raised_hands:
 
+## Interests :books:
+- **Data**
+- **Software Development**
+- **Machine Learning**
 
-
-
-
-
+## Favourite Languages
+- **Python**
+- **C#**

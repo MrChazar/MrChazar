@@ -1,4 +1,4 @@
-# Hi, I'm Jacob :raised_hands:
+# Hi, I'm Jakub :raised_hands:
 
 ## Interests :books:
 - **Data**
